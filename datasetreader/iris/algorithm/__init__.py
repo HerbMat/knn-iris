@@ -1,0 +1,1 @@
+from datasetreader.iris.algorithm import IrisKnn
